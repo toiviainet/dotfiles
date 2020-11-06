@@ -1,5 +1,6 @@
 # iPad setup
 
+## General
 - **Dropbox**: [https://apps.apple.com/fi/app/dropbox-backup-sync-share/id327630330](https://apps.apple.com/fi/app/dropbox-backup-sync-share/id327630330) 
 - **Chrome**: [https://apps.apple.com/fi/app/google-chrome/id535886823](https://apps.apple.com/fi/app/google-chrome/id535886823) 
 - **Drive**: [https://apps.apple.com/fi/app/google-drive-online-backup/id507874739](https://apps.apple.com/fi/app/google-drive-online-backup/id507874739) 
