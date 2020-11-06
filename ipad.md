@@ -8,8 +8,6 @@
 - **Blink.sh**: [https://apps.apple.com/fi/app/blink-shell-mosh-ssh-client/id1156707581](https://apps.apple.com/fi/app/blink-shell-mosh-ssh-client/id1156707581) 
 - **Usage**: [https://apps.apple.com/fi/app/usage-widget-system-activity/id970353453](https://apps.apple.com/fi/app/usage-widget-system-activity/id970353453)
 - **Lockdown**: [https://apps.apple.com/fi/app/lockdown-privacy/id1469783711](https://apps.apple.com/fi/app/lockdown-privacy/id1469783711)
-- **Github**: [https://apps.apple.com/fi/app/github/id1477376905](https://apps.apple.com/fi/app/github/id1477376905)
-- **Feedly**: [https://apps.apple.com/fi/app/feedly-smart-news-reader/id396069556](https://apps.apple.com/fi/app/feedly-smart-news-reader/id396069556)
 - **Telegram**: [https://apps.apple.com/fi/app/telegram-messenger/id686449807](https://apps.apple.com/fi/app/telegram-messenger/id686449807)
 - **1Password**: [https://apps.apple.com/fi/app/1password-password-manager/id568903335](https://apps.apple.com/fi/app/1password-password-manager/id568903335)
 - **TestFlight**: [https://apps.apple.com/fi/app/testflight/id899247664](https://apps.apple.com/fi/app/testflight/id899247664)
