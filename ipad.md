@@ -4,6 +4,7 @@
 - **Dropbox**: [https://apps.apple.com/fi/app/dropbox-backup-sync-share/id327630330](https://apps.apple.com/fi/app/dropbox-backup-sync-share/id327630330) 
 - **Chrome**: [https://apps.apple.com/fi/app/google-chrome/id535886823](https://apps.apple.com/fi/app/google-chrome/id535886823) 
 - **Drive**: [https://apps.apple.com/fi/app/google-drive-online-backup/id507874739](https://apps.apple.com/fi/app/google-drive-online-backup/id507874739) 
+- **iSH**: [https://apps.apple.com/fi/app/ish-shell/id1436902243](https://apps.apple.com/fi/app/ish-shell/id1436902243) 
 - **Blink Shell**: [https://apps.apple.com/fi/app/blink-shell-mosh-ssh-client/id1156707581](https://apps.apple.com/fi/app/blink-shell-mosh-ssh-client/id1156707581) 
 - **Excel**: [https://apps.apple.com/fi/app/microsoft-excel/id586683407](https://apps.apple.com/fi/app/microsoft-excel/id586683407)
 - **Notability**: [https://apps.apple.com/fi/app/notability/id360593530](https://apps.apple.com/fi/app/notability/id360593530)
